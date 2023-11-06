@@ -25,3 +25,7 @@
 * 여행 유형 및 여행 키워드에 맞게 데이터를 정리 후 Tableau 대시보드 제작
 <img width="1088" alt="스크린샷 2023-11-06 오후 4 55 03" src="https://github.com/jjeori/cheonan_data_analysis/assets/99062088/b3d416fc-343c-408a-bc60-5a78ff520cd6">
 
+### **대시보드 활용 아이디어 추가 제안**
+* 군인들이 독립기념관을 방문할 때 사용하는 현충시설기념관 안내 어플에 대시보드 도입 방안 제안
+<img width="1138" alt="스크린샷 2023-11-06 오후 5 01 02" src="https://github.com/jjeori/cheonan_data_analysis/assets/99062088/f0d94ae8-a657-4dc5-a30b-8564775a3986">
+
